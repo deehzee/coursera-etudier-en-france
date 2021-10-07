@@ -1,6 +1,14 @@
 # [Coursera Course] Étudier en France: French Intermediate Course B1-B2
 
-https://www.coursera.org/learn/etudier-en-france
+* Offered by: Institut Polytechnique de Paris
+* Taught by:
+  - Julie André
+  - Olivier Bertrand
+  - Isabelle Schaffner
+* link: https://www.coursera.org/learn/etudier-en-france
+
+
+## Syllabus
 
 1. Arriver en France
 2. S'adapter à la vie en France
